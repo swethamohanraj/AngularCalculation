@@ -124,7 +124,7 @@ color:purple;
 </div>
 </div>
 <div class="footer">
-    Developed by Sowmiya.
+    Developed by K.M.Swetha.
  </div>
 </body>
 TS(app.component.ts):
